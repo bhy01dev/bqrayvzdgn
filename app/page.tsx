@@ -7,15 +7,10 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`I am Bugrahan Yavuzdogan, I was born in Istanbul in 2005. I am currently studying at Istanbul Topkapi University Computer Programming Department. 
+          With Kali Linux, I am developing myself in the fields of Information Technologies such as Network Attacks and Web Security. 
+          I want to become a successful software developer and a talented Cybersecurity researcher in the future.`}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
     </section>
   )
 }
